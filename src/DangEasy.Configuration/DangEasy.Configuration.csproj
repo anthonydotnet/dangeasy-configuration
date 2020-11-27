@@ -3,10 +3,16 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>0.1</PackageVersion>
+    <PackageVersion>0.1.1</PackageVersion>
     <Authors>Anthony Dang</Authors>
     <Description>A simple configuration loader.
 </Description>
+    <Copyright>Anthony dang</Copyright>
+    <PackageLicenseUrl>https://github.com/anthonydotnet/dangeasy-configuration/blob/main/LICENSE</PackageLicenseUrl>
+    <Owners>Anthony dang</Owners>
+    <PackageProjectUrl>https://github.com/anthonydotnet/dangeasy-configuration</PackageProjectUrl>
+    <Summary>A simple configuration loader.</Summary>
+    <Title>DangEasy.Configuration</Title>
   </PropertyGroup>
 
   <ItemGroup>
